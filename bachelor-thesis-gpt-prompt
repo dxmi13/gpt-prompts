@@ -1,0 +1,33 @@
+\documentclass[12pt]{report}
+\usepackage{lipsum} % for generating placeholder text, you can remove this in your actual document
+\usepackage[utf8]{inputenc}
+\usepackage{polski}
+\begin{document}
+
+\chapter{Wprowadzenie do OMR}
+
+\section{Początek}
+
+Optyczne Rozpoznawanie Muzyki (OMR) znajduje się na styku informatyki i muzykologii, odpowiadając na potrzebę zachowania i cyfryzacji dzieł muzycznych. Wiele historycznych kompozycji istnieje tylko w formie oryginalnych rękopisów lub fotokopii, co wymaga zaawansowanych technologii do ich przekształcenia w formy czytelne dla maszyn. Chociaż OMR dokonało znaczących postępów, rozpoznawanie ręcznie pisanych partytur stwarza znaczne wyzwania. Ten rozdział dostarcza dogłębnego zbadania tych wyzwań i wprowadza metodologię studiów porównawczych do oceny algorytmów rozpoznawania.
+
+\section{Wyzwania OMR}
+
+Ręcznie napisane partytury wykazują mnóstwo złożoności, począwszy od różnic w symbolach po nieregularności w liniach pięciolinii. Istniejące metody OMR mają trudności z niuansami charakterystycznymi dla ręcznie pisanej muzyki, co utrudnia osiągnięcie wysokiej dokładności. Nacisk na różne właściwości w różnych metodach dodatkowo komplikuje proces oceny. Ten rozdział zagłębia się w zawiłości rozpoznawania ręcznie pisanych partytur, podkreślając konieczność stosowania dostosowanych algorytmów.
+
+\section{Komponenty OMR}
+
+Zrozumienie podstawowych składników OMR jest kluczowe dla opracowywania skutecznych algorytmów. Identyfikacja linii pięciolinii pełni rolę fundamentalnego etapu, ustalając strukturalny szkielet utworu muzycznego. Lokalizacja obiektów obejmuje precyzyjne określanie symboli muzycznych, a klasyfikacja cech kategoryzuje te symbole na podstawie ich charakterystyk. Semantyka muzyczna wykracza poza samą rozpoznawalność, zagłębiając się w interpretację treści muzycznej. Pełne zrozumienie tych składników jest niezbędne do postępu w technologii OMR.
+
+\section{Porównanie algorytmów rozpoznających}
+
+Aby odpowiedzieć na wyzwania w OMR, proponowana jest rygorystyczna metodologia studium porównawczego. Obejmuje to przejrzenie powszechnych procedur w OMR oraz poddanie algorytmów rozpoznawania prawdziwym i syntetycznym partyturom. Projekt eksperymentu obejmuje technikę elastycznej deformacji, wprowadzając niezmienności w celu uwzględnienia zmiennego charakteru ręcznie pisanych symboli. Wynikowa analiza porównawcza ma na celu nie tylko potwierdzenie skuteczności proponowanych algorytmów, ale także stworzenie odniesienia punktowego dla przyszłych badań w dziedzinie OMR.
+
+\section{Dokonania w Dziedzinie OMR}
+
+Zaprezentowany w tym rozdziale ramy teoretyczne stanowią istotny wkład w dziedzinę OMR. Poprzez przedstawienie wyzwań związanych z rozpoznawaniem ręcznie pisanych partytur muzycznych i zaproponowanie systematycznego podejścia do oceny algorytmów, ta praca zwiększa wiarygodność i stosowalność systemów OMR. Ta teoretyczna podstawa ma kluczowe znaczenie dla kierowania kolejnymi praktycznymi implementacjami i analizami.
+
+\section{Podsumowanie}
+
+Podsumowując, ten teoretyczny rozdział stanowi kompleksowe zbadanie OMR, skupiając się na wyzwaniach związanych z rozpoznawaniem ręcznie pisanych partytur muzycznych. Poprzez analizę kluczowych składników OMR i zaproponowanie solidnej metodologii studium porównawczego, ustanawia solidną podstawę dla postępu w najnowszych technologiach w dziedzinie OMR. To fundament jest niezbędny dla kolejnych praktycznych implementacji i analiz, stanowiąc trzon szerszych przedsięwzięć badawczych.
+
+\end{document}
