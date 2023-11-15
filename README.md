@@ -14,7 +14,7 @@ LaTeX serves as a powerful typesetting system, ideal for creating professional-l
 
 ## How I Applied Them
 
-### ChatGPT for Abstract Generation
+### ChatGPT for Scoring and Chapter generation
 I used ChatGPT to generate scores and one chapter for given abstracts for my research paper in the field of optical music recognition.
 
 ### LaTeX for Typesetting Scientific Papers
